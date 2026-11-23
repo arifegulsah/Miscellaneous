@@ -1,4 +1,4 @@
-# Misc
+# Miscellaneous
 
 A collection of my small projects and experiments that don't belong to a bigger category.
 
